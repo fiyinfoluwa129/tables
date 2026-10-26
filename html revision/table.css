@@ -1,0 +1,43 @@
+.table{
+    width: 100%;   
+    /* to make it full screen */
+     /* border:1px solid ; */
+     border-collapse: collapse;
+     font-family: Arial, Helvetica, sans-serif;
+
+}
+/* 
+.table th,.table td { 
+    text-align: center;
+    border: solid 1px #dddddd;
+    padding: 12px;
+
+} */
+
+/* .table th{
+    background-color: green;
+    color: white;
+} */
+
+.plan{
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+.plan th,.plan td {
+    text-align: center;
+   border: 1px solid #dddddd;
+    padding: 20px;
+   
+}
+
+.pool th{
+    background-color: blue;
+    color: white;
+}
+
+.body th{
+    background-color: cyan;
+}
+

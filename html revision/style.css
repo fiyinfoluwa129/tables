@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: yellow;
+}
+
+select {
+    color: green;
+}
+
+ol {
+    color: blue;
+font-style: italic;
+font-size: larger;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: darkred;
+    color: azure;
+}
+
+.fort{
+    width: 100%;
+       border-collapse: collapse;
+       background-color: orangered;
+}
+
+.fort th,.fort td{
+    text-align: center;
+    border: 1px solid black;
+    padding: 15px;
+ 
+}
+.free{
+    background-color: darkcyan;
+    
+}
+
+
+.blue{
+    background-color: darkorange;
+    color: azure;
+}
